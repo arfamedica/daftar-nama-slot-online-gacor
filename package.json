@@ -1,0 +1,18 @@
+{
+  "name": "daftar-nama-slot-online-gacor",
+  "main": "./lib/daftar-nama-slot-online-gacor",
+  "version": "0.5.0",
+  "description": "A short description of your package",
+  "keywords": ["situs slot","slot online","slot gacor","slot terpercaya","slot terbaik","slot pragmatic","slot terbaru","situs judi","judi online","slot online terpercaya"
+  ],
+  "activationCommands": {
+    "atom-workspace": "daftar-nama-slot-online-gacor:toggle"
+  },
+  "repository": "https://github.com/atom/daftar-nama-slot-online-gacor.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

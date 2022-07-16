@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle daftar-nama-slot-online-gacor",
+        "command": "daftar-nama-slot-online-gacor:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "daftar-nama-slot-online-gacor",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "daftar-nama-slot-online-gacor:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
